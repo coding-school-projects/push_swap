@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/senthilpoo10/42-project-badges/blob/main/badges/push_swapm.png" width="200"/>
+  <img src="https://github.com/senthilpoo10/badges/blob/main/badges/push_swapm.png" width="200"/>
 </h1>
 
 <p align="center">
